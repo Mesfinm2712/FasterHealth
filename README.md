@@ -1,0 +1,1 @@
+FasterHealth is a React Native app designed to streamline the process of booking walk-in clinics directly from your phone. The app provides real-time information on wait times, helping users avoid long waits and stay informed about how busy their local clinics are. This ensures a more efficient and convenient healthcare experience for everyone.
